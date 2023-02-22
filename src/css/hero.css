@@ -1,7 +1,9 @@
 .h1 {
-    color: blueviolet;
+  color: red;
+  background-color: black;
 }
 
-.p {
+p {
     color: brown;
 }
+
